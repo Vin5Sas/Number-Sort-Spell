@@ -8,4 +8,3 @@ and displayed in column C while column D displays the numerals corresponding to 
 ##### Column B: Spelt numerals
 ##### Column C: Sorted Spelt numerals
 #####  Column D: Numerals corresponding to sorted spellings
-
